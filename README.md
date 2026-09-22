@@ -471,13 +471,6 @@ SOFTWARE.
 
 ---
 
-## 📞 Contacto
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-UalfTV-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/UalfTV)
-[![GitHub](https://img.shields.io/badge/GitHub-UalfTV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UalfTV)
-[![Spotify](https://img.shields.io/badge/Spotify-UalfTV-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/UalfTV)
 
 **Hecho con 🧡 en Bahía Blanca, Argentina 🌊**
 
